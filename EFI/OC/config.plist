@@ -914,11 +914,11 @@
                 <key>LauncherPath</key>
                 <string>Default</string>
                 <key>PickerAttributes</key>
-                <integer>17</integer>
+                <integer>1</integer>
                 <key>PickerAudioAssist</key>
                 <false/>
                 <key>PickerMode</key>
-                <string>External</string>
+                <string>Builtin</string>
                 <key>PickerVariant</key>
                 <string>Auto</string>
                 <key>PollAppleHotKeys</key>
@@ -1039,11 +1039,11 @@
                     <key>Arguments</key>
                     <string></string>
                     <key>Auxiliary</key>
-                    <true/>
+                    <false/>
                     <key>Comment</key>
                     <string>Not signed for security reasons</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>Flavour</key>
                     <string>OpenShell:UEFIShell:Shell</string>
                     <key>FullNvramAccess</key>
@@ -1348,18 +1348,6 @@
                     <key>Path</key>
                     <string>ResetNvramEntry.efi</string>
                 </dict>
-                <dict>
-                    <key>Arguments</key>
-                    <string></string>
-                    <key>Comment</key>
-                    <string></string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>LoadEarly</key>
-                    <false/>
-                    <key>Path</key>
-                    <string>OpenCanopy.efi</string>
-                </dict>
             </array>
             <key>Input</key>
             <dict>
@@ -1399,7 +1387,7 @@
                 <key>IgnoreTextInGraphics</key>
                 <false/>
                 <key>InitialMode</key>
-                <string>Graphics</string>
+                <string>Auto</string>
                 <key>ProvideConsoleGop</key>
                 <true/>
                 <key>ReconnectGraphicsOnConnect</key>
