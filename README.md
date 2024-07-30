@@ -5,7 +5,7 @@ EFI configuration for opencore hackintosh using HP Elitedesk 800 G4 / G5 Mini, i
 https://dortania.github.io/OpenCore-Install-Guide/
 
 ## Tools
-- [https://github.com/ic005k/OCAuxiliaryTools] (https://github.com/ic005k/OCAuxiliaryTools) OCAuxiliaryTools
+- [https://github.com/ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) OCAuxiliaryTools
 
 ##  Configuration
 
@@ -24,11 +24,11 @@ https://dortania.github.io/OpenCore-Install-Guide/
 - [x] Onboard sound card
 - [x] Onboard network card
 - [x] Wifi
-- [] Bluetooth
 - [x] sleep/wake up
 - [x] USB2.0 / USB 3.0
-- [] DRM
-- [] AirDrop / SideCar
+- [ ] DRM
+- [ ] AirDrop / SideCar
+- [ ] Bluetooth
 
 
 ## Create Bootable USB Mac Installer
