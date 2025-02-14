@@ -35,3 +35,6 @@ https://dortania.github.io/OpenCore-Install-Guide/
 - [https://github.com/corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS)
 - [https://intozoom.com/gibmacos-create-bootable-usb/](https://intozoom.com/gibmacos-create-bootable-usb/)
 - [https://diskmakerx.com/download/](https://diskmakerx.com/download/)
+
+## Credit
+- https://www.insanelymac.com/forum/topic/343937-guide-catalina-big-sur-monterey-ventura-sonoma-sequoia-on-hp-elitedesk-800-g4g5-mini-the-perfect-macmini81-hackintosh/
